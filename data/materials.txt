@@ -1,0 +1,6 @@
+BEGIN Room     
+    Name                 ParoleRoom  
+    BEGIN Requirement Type Indoor  END  
+    BEGIN Requirement Type MinimumSize  x 4  y 4  END  
+    BEGIN Requirement Type Object  Id VisitorTable  END  
+END  

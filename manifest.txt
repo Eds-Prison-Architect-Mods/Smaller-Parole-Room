@@ -1,0 +1,8 @@
+
+Name                 "Smaller Parole Room"  
+Description          "Makes parole room smaller."  
+Version              1.0.0  
+Date                 1/4/2018  
+IsTranslation        false  
+Author               ItzEdInYourBed  
+SteamAuthor          A76561198140191052  
